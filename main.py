@@ -1,4 +1,4 @@
-from dsv.test_svm_is_decomposable import test_svm_is_decomposable
+from dsv.test_sv_then_weights_try import test_sv_then_weights_try
 
 if __name__ == '__main__':
-    test_svm_is_decomposable()
+    test_sv_then_weights_try()
